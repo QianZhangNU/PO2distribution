@@ -2,7 +2,7 @@
 
 ## Contributor: Qian Zhang (Northwestern University)
 
-                qian.zhang_jennifer@northwestern.edu
+                 qian.zhang_jennifer@northwestern.edu
              
 This is a program with GUI to generate PO2 distribution in the electrolyte for two-layer full cells and symmetric cells with YSZ as electrolyte in hydrogen enviroment or air enviroment.
 
