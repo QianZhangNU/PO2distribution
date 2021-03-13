@@ -1,4 +1,4 @@
-# PO2distribution
+# PO2distribution in electrolyte in SOEC
 This is a program with GUI to generate PO2 distribution in the electrolyte for two-layer full cells and symmetric cells with YSZ as electrolyte in hydrogen enviroment or air enviroment.
 
 Parameters:
