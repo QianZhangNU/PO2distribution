@@ -3,8 +3,10 @@ This is a program with GUI to generate PO2 distribution in the electrolyte for t
 
 Parameters:
 
-Symmetric cell?: 0.0-->full cell, YSZ-GDC two-layer electrolyte
+Symmetric cell?: 
 
-                 1.0-->symmetric cell in hydrogen, YSZ electrolyte
+0.0 :: full cell, YSZ-GDC two-layer electrolyte
+
+1.0 :: symmetric cell in hydrogen, YSZ electrolyte
                  
-                 2.0-->symmetric cell in air, YSZ electrolyte
+2.0 :: symmetric cell in air, YSZ electrolyte
